@@ -1,0 +1,15 @@
+.note-title {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0px;
+}
+
+.note-textarea {
+  padding: 5px;
+}
+
+.new-note-layout {
+  margin: 15% 5%;
+  height: 70%;
+  background-color: transparent;
+}

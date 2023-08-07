@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.demo.pg.react",
+  "appName": "Ionic React Notes App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

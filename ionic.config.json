@@ -1,0 +1,7 @@
+{
+  "name": "notes-app-capacitor-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
